@@ -33,9 +33,7 @@ The project recreates the basic Google UI including:
 - Gmail and Images links redirect to official Google pages
 
 ## Project Structure
-
-```text
-google-homepage-clone/
+TASK3/
 │
 ├── index.html
 💡 How It Works
