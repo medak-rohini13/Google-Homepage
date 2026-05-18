@@ -38,3 +38,25 @@ The project recreates the basic Google UI including:
 google-homepage-clone/
 │
 ├── index.html
+💡 How It Works
+The search bar captures user input using JavaScript
+
+On submit, it redirects to:
+
+https://www.google.com/search?q=your-query
+
+"I'm Feeling Lucky" redirects using:
+
+https://www.google.com/search?q=your-query&btnI=I
+📱 Responsive Design
+Desktop: Centered Google layout
+Tablet: Scaled logo and search bar
+Mobile: Full-width search bar with stacked layout
+🎯 Future Improvements
+Dark mode toggle 🌙
+Voice search integration 🎤
+Auto-suggestions dropdown
+Animation improvements
+🧑‍💻 Author
+
+Rohini
